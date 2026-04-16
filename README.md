@@ -24,22 +24,6 @@
 
 ---
 
-## ✨ 刷题进度
-| 分类 | 已刷题数 | 状态 |
-| :--- | :--- | :--- |
-| 01-basic | 1 | ✅ 已启动 |
-| 02-search | 0 | ⏳ 待更新 |
-| 03-dp | 0 | ⏳ 待更新 |
-| 04-greedy | 0 | ⏳ 待更新 |
-| 05-math | 0 | ⏳ 待更新 |
-| 06-string | 0 | ⏳ 待更新 |
-| 07-structure | 0 | ⏳ 待更新 |
-| 08-graph | 0 | ⏳ 待更新 |
-| 09-simulate | 0 | ⏳ 待更新 |
-| 10-practice | 0 | ⏳ 待更新 |
-
----
-
 ## 🛠️ 技术栈
 - **开发语言**：C/C++（蓝桥杯主力语言）
 - **版本控制**：Git + GitHub + SourceTree
@@ -58,3 +42,9 @@
 
 ### 3. 提交规范
 每次提交说明清晰，格式示例：
+## 📌 联系方式
+- GitHub：[@sirius77-cs](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2Fsirius77-cs&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- 仓库地址：https://github.com/sirius77-cs/lanqiao-algorithm
+
+---
+## 🎉 无限进步！

@@ -1,4 +1,4 @@
-# 📚 lanqiao-algorithm
+# 📚 Exercise-algorithm
 蓝桥杯 & 洛谷 & LeetCode & Codeforces 算法刷题仓库，记录算法学习与备赛全过程
 
 ---
